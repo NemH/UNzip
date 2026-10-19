@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./icon.ico" width="128" alt="UNzip Logo">
+</p>
+
 # 🚀 UNzip
 
 A lightweight, background-running archive extraction utility for Windows that lives in the system tray and displays extraction progress in real-time.

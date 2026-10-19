@@ -16,15 +16,19 @@ A lightweight, background-running archive extraction utility for Windows that li
 - **Native Support:** Handles `.zip`, `.tar`, `.gz`, and `.bz2` formats efficiently.
 - **Crisp High-DPI Icon:** Supports multi-resolution `.ico` assets for clean visual presentation across all Windows scaling modes.
 
+![UNzip Demo Use](./assets/demo_2.gif)
+
 ---
 
 ## 📦 Installation & Setup
 
 1. Download the latest `UNzip.exe` release from the [Releases](../../releases) tab.
-2. Move `UNzip.exe` to a permanent folder on your PC (e.g., `C:\Program Files\UNzip\`) or any else.
+2. Move `UNzip.exe` to a permanent folder on your PC (e.g., `C:\Program Files\UNzip\`) or any other location.
 3. Right-click any `.zip` or `.tar` file in Windows.
 4. Select **Open with** $\rightarrow$ **Choose another app**.
 5. Scroll down, click **Choose an app on your PC**, browse to `UNzip.exe`, and check **Always use this app**.
+
+![UNzip Demo Setup](./assets/demo_1.gif)
 
 ---
 
